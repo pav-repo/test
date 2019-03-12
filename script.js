@@ -23,3 +23,5 @@ appData.expenses.a3 = a4;
 
 
 console.log(appData.budget / 30);
+
+console.log('test');
